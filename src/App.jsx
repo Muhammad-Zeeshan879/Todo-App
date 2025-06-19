@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import TodoInput from "./components/TodoInput.jsx";
-import TodoList from "./components/TodoList";
+import TodoInput from "./Components/TodoInput.jsx";
+import TodoList from "./Components/TodoList.jsx";
 
 function App() {
   // Initialize state from localStorage
