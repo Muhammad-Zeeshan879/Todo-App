@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import TodoInput from "./components/TodoInput";
+import TodoInput from "./components/Todoinput.jsx";
 import TodoList from "./components/TodoList";
 
 function App() {
